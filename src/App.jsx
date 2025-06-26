@@ -280,15 +280,15 @@ function App() {
             </p>
 
             <div className="flex flex-wrap gap-4 sm:gap-6 mb-4 sm:mb-6">
-              <a href="#" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
+              <a href="https://github.com/TRrajputDEV" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
                 <Github className="w-4 h-4 sm:w-5 sm:h-5" />
                 Github
               </a>
-              <a href="#" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
+              <a href="https://www.linkedin.com/in/tushar-tanwar-a9316a299/" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
                 <Linkedin className="w-4 h-4 sm:w-5 sm:h-5" />
                 LinkedIn
               </a>
-              <a href="#" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
+              <a href="https://www.instagram.com/tanwar__tushar" className="flex items-center gap-2 text-neutral-300 hover:text-white transition-colors duration-300 underline text-sm sm:text-base">
                 <Instagram className="w-4 h-4 sm:w-5 sm:h-5" />
                 Instagram
               </a>
